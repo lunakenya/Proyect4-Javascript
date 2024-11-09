@@ -30,11 +30,11 @@ Open a Web Browser: Launch your preferred web browser.
 ## DockerHub
 ### DockerHub Repository
 
-[https://hub.docker.com/r/luna28kenya412/my-python-app](https://hub.docker.com/r/luna28kenya412/my-python-app)
+[https://hub.docker.com/r/luna28kenya412/my-javascript-app](https://hub.docker.com/r/luna28kenya412/my-javascript-app)
 
 Docker Pull Command
 ```sh
-docker 
+docker pull luna28kenya412/my-javascript-app
 ```
 
 ## Evidences
