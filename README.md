@@ -20,6 +20,16 @@
 ```sh
 git clone https://github.com/lunakenya/Proyect4-Javascript.git
 ```
+# Install dependencies:
+
+```sh
+npm install
+```
+# Running the Application
+```sh
+node index.js
+```
+After installing the dependencies, you can run the application:
 
 ## Program Execution
 ### Run the Application
@@ -35,6 +45,9 @@ Open a Web Browser: Launch your preferred web browser.
 Docker Pull Command
 ```sh
 docker pull luna28kenya412/my-javascript-app
+```
+```sh
+docker run -d -p 8085:8085 --name proyecto-javascript luna28kenya412/my-javascript-app
 ```
 
 ## Evidences
