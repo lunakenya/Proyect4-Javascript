@@ -38,8 +38,10 @@ docker pull luna28kenya412/my-javascript-app
 ```
 
 ## Evidences
+-Here are some screenshots of the project running 
 ![imagen](https://github.com/user-attachments/assets/0682e58e-b96b-40e1-a6ff-d4f808cae234)
 ![imagen](https://github.com/user-attachments/assets/c19e06cb-f44f-4532-bed1-44f64c0e5f6e)
+link of Digital Ocean:https://javascript-2mhmt.ondigitalocean.app/
 ![imagen](https://github.com/user-attachments/assets/79b0983d-ce3a-47bf-9b72-96957de4ad86)
 
 
