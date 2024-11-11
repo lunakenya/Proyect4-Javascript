@@ -47,7 +47,7 @@ Docker Pull Command
 docker pull luna28kenya412/my-javascript-app
 ```
 ```sh
-docker run -d -p 8085:8085 --name proyecto-javascript luna28kenya412/my-javascript-app
+docker run -d -p 8084:8084 --name proyecto-javascript luna28kenya412/my-javascript-app
 ```
 
 ## Evidences
